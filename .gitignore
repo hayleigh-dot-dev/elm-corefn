@@ -1,0 +1,5 @@
+# Editor config
+.vscode
+
+# Compiler artifacts
+elm-stuff
